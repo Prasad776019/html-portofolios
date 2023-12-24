@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.search-section {
+    margin-top: 20px;
+}
+
+#city-input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #9b0808;
+    border-radius: 5px;
+}
+
+#search-button {
+    background-color: #8b4caf;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.weather-section {
+    margin-top: 20px;
+}
+
+#weather-info {
+    font-size: 20px;
+}
